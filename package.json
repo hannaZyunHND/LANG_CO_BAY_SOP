@@ -1,0 +1,12 @@
+{
+  "name": "lang-co-hotel-sop",
+  "version": "2.0.0",
+  "description": "Hệ thống SOP Khách sạn Lăng Cô",
+  "scripts": {
+    "start": "honkit serve",
+    "build": "honkit build"
+  },
+  "devDependencies": {
+    "honkit": "^5.1.0"
+  }
+}
