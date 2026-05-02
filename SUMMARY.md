@@ -1,0 +1,45 @@
+# Table of contents
+
+* [Giới thiệu](README.md)
+
+## 1. Khối Lễ tân (Front Office - FO)
+* [FO-01: Quy trình Đặt phòng (Reservation)](01_Front_Office%20(FO-XXXX)/FO-01/SOP.md)
+* [FO-02: Quy trình Check-in](01_Front_Office%20(FO-XXXX)/FO-02/SOP.md)
+* [FO-03: Quy trình Hỗ trợ khách (In-house Guest)](01_Front_Office%20(FO-XXXX)/FO-03/SOP.md)
+* [FO-04: Quy trình Thanh toán & Check-out](01_Front_Office%20(FO-XXXX)/FO-04/SOP.md)
+* [FO-05: Quy trình Giao ca Lễ tân](01_Front_Office%20(FO-XXXX)/FO-05/SOP.md)
+
+## 2. Khối Buồng phòng (Housekeeping - HK)
+* [HK-01: Quy trình dọn phòng khách đang ở](02_Housekeeping%20(HK-XXXX)/HK-01/SOP.md)
+* [HK-02: Quy trình dọn phòng khách vừa trả](02_Housekeeping%20(HK-XXXX)/HK-02/SOP.md)
+* [HK-03: Quy trình xử lý đồ thất lạc (Lost & Found)](02_Housekeeping%20(HK-XXXX)/HK-03/SOP.md)
+* [HK-04: Quy trình kiểm tra Mini-bar](02_Housekeeping%20(HK-XXXX)/HK-04/SOP.md)
+* [HK-05: Quy trình vệ sinh khu vực công cộng](02_Housekeeping%20(HK-XXXX)/HK-05/SOP.md)
+* [HK-06: Quy trình Giặt ủi](02_Housekeeping%20(HK-XXXX)/HK-06/SOP.md)
+* [HK-07: Quy trình chỉnh trang phòng tối (Turn-down Service)](02_Housekeeping%20(HK-XXXX)/HK-07/SOP.md)
+
+## 3. Khối Nhà hàng & Bar (Food & Beverage - FB)
+* [FB-01: Quy trình phục vụ ăn sáng Buffet](03_Food_and_Beverage%20(FB-XXXX)/FB-01/SOP.md)
+* [FB-02: Quy trình phục vụ gọi món (A-la-carte)](03_Food_and_Beverage%20(FB-XXXX)/FB-02/SOP.md)
+* [FB-03: Quy trình phục vụ tại phòng (Room Service)](03_Food_and_Beverage%20(FB-XXXX)/FB-03/SOP.md)
+* [FB-04: Quy trình phục vụ đồ uống tại Bar](03_Food_and_Beverage%20(FB-XXXX)/FB-04/SOP.md)
+* [FB-05: Quy trình đóng/mở ca nhà hàng](03_Food_and_Beverage%20(FB-XXXX)/FB-05/SOP.md)
+
+## 4. Khối Bếp (Kitchen Production - KP)
+* [KP-01: Quy trình nhập hàng & Kiểm kê](04_Kitchen_Production%20(KP-XXXX)/KP-01/SOP.md)
+* [KP-02: Quy trình sơ chế thực phẩm](04_Kitchen_Production%20(KP-XXXX)/KP-02/SOP.md)
+* [KP-03: Quy trình chế biến món ăn](04_Kitchen_Production%20(KP-XXXX)/KP-03/SOP.md)
+* [KP-04: Quy trình lưu mẫu thức ăn](04_Kitchen_Production%20(KP-XXXX)/KP-04/SOP.md)
+* [KP-05: Quy trình vệ sinh bếp (Stewarding)](04_Kitchen_Production%20(KP-XXXX)/KP-05/SOP.md)
+
+## 5. Khối Kỹ thuật & An ninh (Engineering & Security - ES)
+* [ES-01: Quy trình bảo trì định kỳ](05_Engineering_and_Security%20(ES-XXXX)/ES-01/SOP.md)
+* [ES-02: Quy trình xử lý sự cố nhanh](05_Engineering_and_Security%20(ES-XXXX)/ES-02/SOP.md)
+* [ES-03: Quy trình tuần tra an ninh](05_Engineering_and_Security%20(ES-XXXX)/ES-03/SOP.md)
+* [ES-04: Quy trình xử lý khẩn cấp](05_Engineering_and_Security%20(ES-XXXX)/ES-04/SOP.md)
+* [ES-05: Quy trình quản lý phương tiện](05_Engineering_and_Security%20(ES-XXXX)/ES-05/SOP.md)
+
+## 6. Khối Nhân sự (Human Resources - HR)
+* [HR-01: Quy trình tuyển dụng & Tiếp nhận nhân sự](06_Human_Resources%20(HR-XXXX)/HR-01/SOP.md)
+* [HR-02: Quy trình tính toán định biên & Phân ca làm việc](06_Human_Resources%20(HR-XXXX)/HR-02/SOP.md)
+* [HR-03: Phụ lục Định biên nhân sự KS 20 phòng](06_Human_Resources%20(HR-XXXX)/HR-03/SOP.md)
