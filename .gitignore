@@ -1,0 +1,9 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore HonKit/GitBook build output
+_book/
+
+# OS generated files
+.DS_Store
+Thumbs.db
